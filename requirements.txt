@@ -1,0 +1,2 @@
+sphinxcontrib-confluencebuilder
+m2r2
