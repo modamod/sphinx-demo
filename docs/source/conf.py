@@ -37,8 +37,8 @@ extensions = ["sphinxcontrib.confluencebuilder", "m2r2", "sphinx.ext.autodoc"]
 confluence_server_user = "admin"
 confluence_server_pass = os.environ.get("CONFLUENCE_SERVER_PASSWORD", "")
 confluence_space_name = "SPHIN"
+confluence_server_url = "http://127.0.0.1:8090/"
 
-confluence_server_url = "http://192.168.56.1:8090/"
 confluence_publish = True
 confluence_parent_page = "Test Sphinx"
 confluence_page_hierarchy = True
