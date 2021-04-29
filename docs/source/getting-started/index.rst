@@ -1,1 +1,1 @@
-.. mdinclude:: ./getting_started.md
+.. mdinclude:: ../../md/getting_started.md

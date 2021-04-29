@@ -130,3 +130,6 @@ dmypy.json
 
 #vscode
 .vscode
+
+# Ignoring the data folder.
+docker/data/*

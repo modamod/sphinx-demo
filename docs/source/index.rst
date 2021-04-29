@@ -9,6 +9,8 @@ Welcome to sphinx-demo's documentation!
 This a demo about automating documentation with sphinx.
 
 .. toctree::
-   :maxdepth: 2
 
+   getting-started/index
    usage/index
+   next/index
+   modules/index
